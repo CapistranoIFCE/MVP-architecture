@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>870597213272-vnoiteuhfnh363rugks800110uvdsia7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.870597213272-vnoiteuhfnh363rugks800110uvdsia7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCLGggfeHVUHHUVZFAVoz2RKdAy2lQf-d4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>870597213272</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.davicapistrano.SwiftArquiteturas</string>
+	<key>PROJECT_ID</key>
+	<string>swiftarquiteturas-bd4b4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swiftarquiteturas-bd4b4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:870597213272:ios:87929867e10ef05e581e2d</string>
+</dict>
+</plist>

@@ -19,17 +19,6 @@ protocol UserManagerProtocol {
 
 }
 
-class teste {
-    let manager = UserManager(business: UserBusiness())
-
-    func testes() {
-        manager.register(email: "", password: "") { UserModel in
-        } failureHandler: { error in
-            <#code#>
-        }
-    }
-}
-
 class UserManager: UserManagerProtocol {
     let business: UserBusinessProtocol
 

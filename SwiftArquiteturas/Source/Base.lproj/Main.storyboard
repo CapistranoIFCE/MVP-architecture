@@ -76,7 +76,7 @@
         <!--Register View Controller-->
         <scene sceneID="1Z9-cj-7yz">
             <objects>
-                <viewController restorationIdentifier="RegisterViewController" id="rLD-fu-EyA" customClass="RegisterViewController" customModule="SwiftArquiteturas" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="RegisterViewController" id="rLD-fu-EyA" customClass="RegisterViewController" customModule="SwiftArquiteturas" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="iec-QA-yv8">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

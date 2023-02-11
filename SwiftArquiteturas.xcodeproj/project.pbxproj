@@ -23,6 +23,7 @@
 		08E35E122994E27E009E5F66 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08E35E112994E27E009E5F66 /* LoginViewController.swift */; };
 		08E35E152994EACB009E5F66 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08E35E142994EACB009E5F66 /* RegisterViewController.swift */; };
 		08E35E17299637CF009E5F66 /* LoginPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08E35E16299637CF009E5F66 /* LoginPresenter.swift */; };
+		08E35E192997B9CE009E5F66 /* RegisterPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08E35E182997B9CE009E5F66 /* RegisterPresenter.swift */; };
 		790B3E1688183505A7E865F5 /* Pods_SwiftArquiteturas.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB52A6BC823952037BA9EE96 /* Pods_SwiftArquiteturas.framework */; };
 /* End PBXBuildFile section */
 
@@ -56,6 +57,7 @@
 		08E35E112994E27E009E5F66 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		08E35E142994EACB009E5F66 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
 		08E35E16299637CF009E5F66 /* LoginPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPresenter.swift; sourceTree = "<group>"; };
+		08E35E182997B9CE009E5F66 /* RegisterPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterPresenter.swift; sourceTree = "<group>"; };
 		A425E920C1354A954EC6E089 /* Pods-SwiftArquiteturas.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftArquiteturas.debug.xcconfig"; path = "Target Support Files/Pods-SwiftArquiteturas/Pods-SwiftArquiteturas.debug.xcconfig"; sourceTree = "<group>"; };
 		BDE99A5FA3E5D94FC4AAAC06 /* Pods-SwiftArquiteturas.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftArquiteturas.release.xcconfig"; path = "Target Support Files/Pods-SwiftArquiteturas/Pods-SwiftArquiteturas.release.xcconfig"; sourceTree = "<group>"; };
 		CB52A6BC823952037BA9EE96 /* Pods_SwiftArquiteturas.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftArquiteturas.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -199,6 +201,7 @@
 			isa = PBXGroup;
 			children = (
 				08E35E142994EACB009E5F66 /* RegisterViewController.swift */,
+				08E35E182997B9CE009E5F66 /* RegisterPresenter.swift */,
 			);
 			path = Register;
 			sourceTree = "<group>";
@@ -381,6 +384,7 @@
 				08E35E17299637CF009E5F66 /* LoginPresenter.swift in Sources */,
 				0807B5CD294EE5B600FBA10C /* UserModel.swift in Sources */,
 				083AD53E29938C3A000682D3 /* HomeViewController.swift in Sources */,
+				08E35E192997B9CE009E5F66 /* RegisterPresenter.swift in Sources */,
 				0807B5CA294EE50000FBA10C /* UserProvider.swift in Sources */,
 				0807B5D0294EE98300FBA10C /* Constants.swift in Sources */,
 				0807B5D4297838E300FBA10C /* UserManager.swift in Sources */,

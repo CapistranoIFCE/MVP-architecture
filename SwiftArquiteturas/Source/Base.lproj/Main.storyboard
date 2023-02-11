@@ -155,7 +155,7 @@
         <!--Home View Controller-->
         <scene sceneID="le1-CB-tUS">
             <objects>
-                <viewController restorationIdentifier="HomeViewController" id="emo-Bs-KCm" customClass="HomeViewController" customModule="SwiftArquiteturas" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="HomeViewController" id="emo-Bs-KCm" customClass="HomeViewController" customModule="SwiftArquiteturas" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="0aG-7t-ySU">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

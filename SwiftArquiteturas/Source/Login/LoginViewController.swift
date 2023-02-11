@@ -36,8 +36,8 @@ class LoginViewController: UIViewController {
 
 extension LoginViewController: LoginPresenterDelegate {
     func goHome() {
-        let storyboard = UIStoryboard(name: "Main", bundle:nil)
-        let home = storyboard.instantiateViewController(withIdentifier: "HomeViewController") as! HomeViewController
+
+        let home = self.storyboard?.instantiateViewController(withIdentifier: "HomeViewController") as! HomeViewController
 
         home.modalPresentationStyle = .fullScreen
         self.present(home, animated: true)

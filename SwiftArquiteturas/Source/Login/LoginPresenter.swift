@@ -12,6 +12,8 @@ protocol LoginPresenterDelegate {
     func goHome()
 }
 
+//Regra de Negócios
+
 class LoginPresenter {
     var delegate: LoginPresenterDelegate?
 
